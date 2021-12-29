@@ -1,1 +1,1 @@
-web: java -jar target/contact-book-1.0.jar
+web: java -jar target/contact-book-0.0.1-SNAPSHOT.jar
